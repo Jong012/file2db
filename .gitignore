@@ -1,2 +1,4 @@
 .idea
 secret.json
+data
+db.sqlite3
